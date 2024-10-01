@@ -1,0 +1,12 @@
+{
+"UserName": "john_doe",
+"LastLogin": "2024-09-14T12:30:00Z",
+"Passcode": "123456",
+"Expiry": "2024-09-14T13:30:00Z",
+"ErrorId": 123,
+"Success": true,
+"StatusCode": 200,
+"TechnicalError": null,
+"DisplayMessage": "OTP validated successfully",
+"CorelationId": "abcd-1234-xyz"
+}

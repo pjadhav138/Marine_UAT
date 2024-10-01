@@ -1,0 +1,554 @@
+{
+  "ClausesList": [
+    {
+      "ShortDescription": "Product level Single Import Clause",
+      "ClausesNumber": "W3686",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Important Notice Clause ",
+      "ClausesNumber": "W6557",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Cargo Clauses (A) - 01/01/2009",
+      "ClausesNumber": "W6563",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Chemical Biological Bio chemical Electromagnetic Weapons and Cyber attack Exclusion Clause 01Nov2002. Institute Radio Active Contamination Exclusion Clause  01Nov2002.",
+      "ClausesNumber": "W6569",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "JOINT EXCESS LOSS CYBER LOSSES CLAUSE (JX2020-007)",
+      "ClausesNumber": "W6575",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Cargo Termination of Storage in Transit Clause (Amended) 2020",
+      "ClausesNumber": "W6581",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Limit per location PLL Notwithstanding anything to contrary contained in this contract Companys liability in respect of any one accident or series of accidents arising from the same event in any one location shall not exceed the amount as specified in the schedule of the policy This donates accumulation of all shipments at any one place at any one time eg Intermediate storage carriers or other godowns at the port awaiting shipment and similar places If such accumulations do take place exceeding the location limit unless prior notice is given to the company suitable amendments have been made in the policy condition of average will be applicable  at time of claim",
+      "ClausesNumber": "W6586",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Limit per Sending PSL Notwithstanding anything to contrary contained in this contract the limit of the insurer liability in respect of any one accident or series of accidents arising from the same event shall not exceed the amount as specified in the schedule of the policy Shipment values exceeding this limit unless prior notice is given to the company suitable amendments have been made in the policy insured will be self insurer and for partial losses condition of average will be applicable at time of claim",
+      "ClausesNumber": "W6589",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Cover Only Single Import Clause",
+      "ClausesNumber": "W3687",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Cargo Termination of Storage in Transit Clause 2004",
+      "ClausesNumber": "W3840",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Cargo Termination of transit Clause Terrorism 2004",
+      "ClausesNumber": "W3841",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Duty Clause",
+      "ClausesNumber": "W3842",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Important Notice Clause",
+      "ClausesNumber": "W3843",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Inland Vessels Clause A All Risks",
+      "ClausesNumber": "W3844",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Cargo Clause (A)    01/01/1982",
+      "ClausesNumber": "W3845",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Cargo Clauses (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W3846",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Chemical Biological Bio chemical Electromagnetic Weapons and Cyber attack Exclusion Clause 01Nov2002",
+      "ClausesNumber": "W3847",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Radio Active Contamination Exclusion Clause  01Nov2002",
+      "ClausesNumber": "W3848",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Cancellation Clause (Air Cargo)     01/01/1982",
+      "ClausesNumber": "W3849",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Cancellation Clause (Cargo)     01/01/1982",
+      "ClausesNumber": "W3850",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Clauses (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W3851",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Clauses (Cargo)    01/01/1982",
+      "ClausesNumber": "W3852",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Cancellation Clause (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W3853",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Cancellation Clause (Cargo)     01/01/1982",
+      "ClausesNumber": "W3854",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Clauses (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W3855",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Clauses (Cargo)    01/01/1982",
+      "ClausesNumber": "W3856",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Sanction Limitation and Exclusion Clause",
+      "ClausesNumber": "W3857",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Limit per location PLL Notwithstanding anything to contrary contained in this contract Companys liability in respect of any one accident or series of accidents arising from the same event in any one location shall not exceed the amount as specified in the schedule of the policy This donates accumulation of all shipments at any one place at any one time eg Intermediate storage carriers or other godowns at the port awaiting shipment and similar places If such accumulations do take place exceeding the location limit unless prior notice is given to the company suitable amendments have been made in the policy condition of average will be applicable  at time of claim",
+      "ClausesNumber": "W3987",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Limit per Sending PSL Notwithstanding anything to contrary contained in this contract the limit of the insurer liability in respect of any one accident or series of accidents arising from the same event shall not exceed the amount as specified in the schedule of the policy Shipment values exceeding this limit unless prior notice is given to the company suitable amendments have been made in the policy insured will be self insurer and for partial losses condition of average will be applicable at time of claim",
+      "ClausesNumber": "W3988",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Cargo Clauses (A) - 01/01/2009",
+      "ClausesNumber": "W6474",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Cargo Termination of Storage in Transit Clause 2004",
+      "ClausesNumber": "W5120",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Cargo Termination of transit Clause Terrorism 2004",
+      "ClausesNumber": "W5121",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Duty Clause",
+      "ClausesNumber": "W5122",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Important Notice Clause",
+      "ClausesNumber": "W5123",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Inland Vessels Clause A All Risks",
+      "ClausesNumber": "W5124",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Cargo Clause (A)    01/01/1982",
+      "ClausesNumber": "W5125",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Cargo Clauses (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W5126",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Chemical Biological Bio chemical Electromagnetic Weapons and Cyber attack Exclusion Clause 01Nov2002",
+      "ClausesNumber": "W5127",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Radio Active Contamination Exclusion Clause  01Nov2002",
+      "ClausesNumber": "W5128",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Cancellation Clause (Air Cargo)     01/01/1982",
+      "ClausesNumber": "W5129",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Cancellation Clause (Cargo)     01/01/1982",
+      "ClausesNumber": "W5130",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Clauses (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W5131",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute Strike Clauses (Cargo)    01/01/1982",
+      "ClausesNumber": "W5132",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Cancellation Clause (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W5133",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Cancellation Clause (Cargo)     01/01/1982",
+      "ClausesNumber": "W5134",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Clauses (Air Cargo)    01/01/1982",
+      "ClausesNumber": "W5135",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Clauses (Cargo)    01/01/1982",
+      "ClausesNumber": "W5136",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Sanction Limitation and Exclusion Clause",
+      "ClausesNumber": "W5137",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Limit per location PLL Notwithstanding anything to contrary contained in this contract Companys liability in respect of any one accident or series of accidents arising from the same event in any one location shall not exceed the amount as specified in the schedule of the policy This donates accumulation of all shipments at any one place at any one time eg Intermediate storage carriers or other godowns at the port awaiting shipment and similar places If such accumulations do take place exceeding the location limit unless prior notice is given to the company suitable amendments have been made in the policy condition of average will be applicable  at time of claim",
+      "ClausesNumber": "W5376",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Limit per Sending PSL Notwithstanding anything to contrary contained in this contract the limit of the insurer liability in respect of any one accident or series of accidents arising from the same event shall not exceed the amount as specified in the schedule of the policy Shipment values exceeding this limit unless prior notice is given to the company suitable amendments have been made in the policy insured will be self insurer and for partial losses condition of average will be applicable at time of claim",
+      "ClausesNumber": "W5377",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Clauses (Cargo) - 01/01/2009",
+      "ClausesNumber": "W6477",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Institute War Clauses (Air Cargo - excluding sending by Post) - 01/01/2009",
+      "ClausesNumber": "W6480",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Leather comm only Single Import Clause",
+      "ClausesNumber": "W3691",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    },
+    {
+      "ShortDescription": "Leather Comm Cover Single Import Clause",
+      "ClausesNumber": "W3692",
+      "ClauseType": "Mandatory True",
+      "DefaultMandatory": true,
+      "ClauseCode": null
+    }
+  ],
+  "ExcessList": [
+    {
+      "Type": "Excess",
+      "SourceSystem": "IPartner",
+      "ProductCode": "2006/I",
+      "SubProductCode": null,
+      "Status": "ACTIVE",
+      "ExcessPercentage": "0.5",
+      "ExcessAmount": "15000",
+      "MappingCode": "W3712",
+      "SingleDeductibleType": "Whole Shipment Value",
+      "DataType": "Generic Master",
+      "TypeofCurrency": "INR"
+    }
+  ],
+  "WarrantiesList": [
+    {
+      "ShortDescription": "Leather Cover level Warr",
+      "WarrantyNumber": "W3631",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Warranted any transit from, to or through Afghanistan, Iran, Sudan, Syria, Myanmar, Cuba, Iraq, Libya, North Korea, Somalia, Chechnya, Bosnia and any of the European Union and/or UnitedStates and/or United Nations and/or United Kingdom sanctioned countries are not covered under the policy",
+      "WarrantyNumber": "W4522",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Only Cover level Warr",
+      "WarrantyNumber": "W3632",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Pair and set clause: Where any item insured under this policy consists of articles in a pair or set, the Companys liability shall not exceed the value of any particular part or parts which may be lost or damaged without reference to any special value which such articles may have as part of such pair or set and in any event not more than a proportionate part of the insured value of the pair or set",
+      "WarrantyNumber": "W5802",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "It is warranted that if the weight of the cargo exceeds than Registration Laden weight Licensed Carrying Capacity of the vehicle as mentioned in the Registration Certificate of the vehicle then any loss or damage arising out of such transit is not covered under the above mentioned policy",
+      "WarrantyNumber": "W4520",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Warranted that goods are transported in closed wagons and or  trucks to be covered with tarpaulin or any other water proof material to avoid ingress of water",
+      "WarrantyNumber": "W5798",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Warranted that goods are transported in closed wagons and or  trucks to be covered with tarpaulin or any other water proof material to avoid ingress of water",
+      "WarrantyNumber": "W4521",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Warranted any transit from, to or through Afghanistan, Iran, Sudan, Syria, Myanmar, Cuba, Iraq, Libya, North Korea, Somalia, Chechnya, Bosnia and any of the European Union and/or UnitedStates and/or United Nations and/or United Kingdom sanctioned countries are not covered under the policy",
+      "WarrantyNumber": "W5799",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Second hand Replacement clause In the event of loss or damage to any part or parts of an insured machine caused by a peril covered by the policy, the Company shall be liable only for the cost of repairing or replacing such part or parts, subject to the condition that settlement of the claim will be made in the same proportion which the insured value of the machine bears to the current market value of a similar machine. The consignment covered hereunder is insured for the market value on as is where is condition Used Machinery and Spares shall be valued at the depreciated market value of the machines as on the date of loss/Accident.",
+      "WarrantyNumber": "W4524",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "It is warranted that if the weight of the cargo exceeds than Registration Laden weight Licensed Carrying Capacity of the vehicle as mentioned in the Registration Certificate of the vehicle then any loss or damage arising out of such transit is not covered under the above mentioned policy",
+      "WarrantyNumber": "W5797",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Single Import Product level Warr",
+      "WarrantyNumber": "W3626",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Warranted that goods are transported in closed wagons and /or  trucks to be covered with tarpaulin or any other water proof material to avoid ingress of water.",
+      "WarrantyNumber": "W6528",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Second hand Replacement clause In the event of loss or damage to any part or parts of an insured machine caused by a peril covered by the policy, the Company shall be liable only for the cost of repairing or replacing such part or parts, subject to the condition that settlement of the claim will be made in the same proportion which the insured value of the machine bears to the current market value of a similar machine. The consignment covered hereunder is insured for the market value on as is where is condition Used Machinery and Spares shall be valued at the depreciated market value of the machines as on the date of loss/Accident.",
+      "WarrantyNumber": "W5801",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Leather Commdoity level Warr",
+      "WarrantyNumber": "W3630",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "It is warranted that if the weight of the cargo exceeds than Registration Laden weight/ Licensed Carrying Capacity of the vehicle, as mentioned in the Registration Certificate of the vehicle, then any loss or damage arising out of such transit is not covered under the above mentioned policy.",
+      "WarrantyNumber": "W6536",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Warranted that losses due to adulteration, contamination and deteriotation of quality is excluded, unless caused by ICC/ ITC B Perils",
+      "WarrantyNumber": "W6551",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Institute Replacement clause In the event of loss or damage to any part or parts of an insured machine caused by a peril covered by the Policy the sum recoverable shall not exceed the cost of replacement or repair of such part or parts plus charges for forwarding and refitting if incurred but excluding duty unless the full duty is included in the amount insured in which case loss if any sustained by payment of additional duty shall also be recoverable",
+      "WarrantyNumber": "W6533",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Institute Replacement clause In the event of loss or damage to any part or parts of an insured machine caused by a peril covered by the Policy the sum recoverable shall not exceed the cost of replacement or repair of such part or parts plus charges for forwarding and refitting if incurred but excluding duty unless the full duty is included in the amount insured in which case loss if any sustained by payment of additional duty shall also be recoverable",
+      "WarrantyNumber": "W4523",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Second hand Replacement clause In the event of loss or damage to any part or parts of an insured machine caused by a peril covered by the policy, the Company shall be liable only for the cost of repairing or replacing such part or parts, subject to the condition that settlement of the claim will be made in the same proportion which the insured value of the machine bears to the current market value of a similar machine. The consignment covered hereunder is insured for the market value on as is where is condition Used Machinery and Spares shall be valued at the depreciated market value of the machines as on the date of loss/Accident.",
+      "WarrantyNumber": "W6539",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Pair and set clause: Where any item insured under this policy consists of articles in a pair or set, the Companys liability shall not exceed the value of any particular part or parts which may be lost or damaged without reference to any special value which such articles may have as part of such pair or set and in any event not more than a proportionate part of the insured value of the pair or set",
+      "WarrantyNumber": "W4525",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Institute Replacement clause In the event of loss or damage to any part or parts of an insured machine caused by a peril covered by the Policy the sum recoverable shall not exceed the cost of replacement or repair of such part or parts plus charges for forwarding and refitting if incurred but excluding duty unless the full duty is included in the amount insured in which case loss if any sustained by payment of additional duty shall also be recoverable",
+      "WarrantyNumber": "W5800",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    },
+    {
+      "ShortDescription": "Pair and set clause: Where any item insured under this policy consists of articles in a pair or set, the Companys liability shall not exceed the value of any particular part or parts which may be lost or damaged without reference to any special value which such articles may have as part of such pair or set and in any event not more than a proportionate part of the insured value of the pair or set",
+      "WarrantyNumber": "W6545",
+      "WarrantyType": null,
+      "DefaultMandatory": null
+    }
+  ],
+  "PlanName": null,
+  "PlanCode": "ICC(A)",
+  "ProposalId": "epn_4jgpYRz7W0BwRWdeFx",
+  "QuoteSequenceId": "AGBjguyS",
+  "SubCommodityCode": "CM871",
+  "SubCommodityName": "Leather and Leather Goods",
+  "ProdCode": "Single_Import",
+  "ProductCodeConst": null,
+  "NameOfCompany": "abc",
+  "Pincode": "400041",
+  "MobileNo": "8989898989",
+  "EmailId": "pankaj@gmail.com",
+  "SumInsured": 300000,
+  "CustomDutySumInsured": 3000,
+  "IsWhatsapp": true,
+  "ConversionRate": 1,
+  "CurrencyType": "INR",
+  "QuotePremium": null,
+  "Success": true,
+  "StatusCode": 200,
+  "TechnicalError": "",
+  "DisplayMessage": null,
+  "CorelationId": "f1240dee-d816-4575-84bc-26dd3fc6ed87"
+}

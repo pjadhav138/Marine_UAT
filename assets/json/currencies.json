@@ -1,0 +1,25 @@
+{
+  "ListCurrency": [
+    {
+      "CurrencyName": "GBP",
+      "Conversion": 81.2254
+    },
+    {
+      "CurrencyName": "INR",
+      "Conversion": 1
+    },
+    {
+      "CurrencyName": "JPY",
+      "Conversion": 0.32958
+    },
+    {
+      "CurrencyName": "USD",
+      "Conversion": 60
+    }
+  ],
+  "Success": true,
+  "StatusCode": 200,
+  "TechnicalError": null,
+  "DisplayMessage": null,
+  "CorelationId": null
+}
