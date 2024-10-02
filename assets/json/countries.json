@@ -1,0 +1,1367 @@
+{
+  "ListCountry": [
+    {
+      "COUNTRY_ID": "43",
+      "COUNTRY_NAME": "ALBANIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.314128",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.314128"
+    },
+    {
+      "COUNTRY_ID": "44",
+      "COUNTRY_NAME": "ALGERIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.31665",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.31665"
+    },
+    {
+      "COUNTRY_ID": "203",
+      "COUNTRY_NAME": "ANDORRA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.157025",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.157025"
+    },
+    {
+      "COUNTRY_ID": "189",
+      "COUNTRY_NAME": "ANGOLA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.555051",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.555051"
+    },
+    {
+      "COUNTRY_ID": "204",
+      "COUNTRY_NAME": "ANTIGUA AND BARBUDA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.168091",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.168091"
+    },
+    {
+      "COUNTRY_ID": "45",
+      "COUNTRY_NAME": "ARGENTINA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.318493",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.318493"
+    },
+    {
+      "COUNTRY_ID": "205",
+      "COUNTRY_NAME": "ARMENIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.17612",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.17612"
+    },
+    {
+      "COUNTRY_ID": "46",
+      "COUNTRY_NAME": "AUSTRALIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.319594",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.319594"
+    },
+    {
+      "COUNTRY_ID": "47",
+      "COUNTRY_NAME": "AUSTRIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.320611",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.320611"
+    },
+    {
+      "COUNTRY_ID": "48",
+      "COUNTRY_NAME": "AZERBAIJAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.323256",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.323256"
+    },
+    {
+      "COUNTRY_ID": "49",
+      "COUNTRY_NAME": "AZORES (PORTUGAL)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.325106",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.325106"
+    },
+    {
+      "COUNTRY_ID": "50",
+      "COUNTRY_NAME": "BAHAMAS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.326205",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.326205"
+    },
+    {
+      "COUNTRY_ID": "51",
+      "COUNTRY_NAME": "BAHRAIN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.328736",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.328736"
+    },
+    {
+      "COUNTRY_ID": "52",
+      "COUNTRY_NAME": "BANGLADESH",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.329798",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.329798"
+    },
+    {
+      "COUNTRY_ID": "53",
+      "COUNTRY_NAME": "BARBADOS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.331775",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.331775"
+    },
+    {
+      "COUNTRY_ID": "235",
+      "COUNTRY_NAME": "BELARUS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.310357",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.310357"
+    },
+    {
+      "COUNTRY_ID": "54",
+      "COUNTRY_NAME": "BELGIUM",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.334699",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.334699"
+    },
+    {
+      "COUNTRY_ID": "55",
+      "COUNTRY_NAME": "BELIZE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.335826",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.335826"
+    },
+    {
+      "COUNTRY_ID": "56",
+      "COUNTRY_NAME": "BENIN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.336917",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.336917"
+    },
+    {
+      "COUNTRY_ID": "57",
+      "COUNTRY_NAME": "BERMUDA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.339708",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.339708"
+    },
+    {
+      "COUNTRY_ID": "58",
+      "COUNTRY_NAME": "BHUTAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.340798",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.340798"
+    },
+    {
+      "COUNTRY_ID": "59",
+      "COUNTRY_NAME": "BOLIVIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.341879",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.341879"
+    },
+    {
+      "COUNTRY_ID": "60",
+      "COUNTRY_NAME": "BOTSWANA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.343019",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.343019"
+    },
+    {
+      "COUNTRY_ID": "61",
+      "COUNTRY_NAME": "BRAZIL",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.344967",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.344967"
+    },
+    {
+      "COUNTRY_ID": "62",
+      "COUNTRY_NAME": "BRUNEI DARUSSALAM",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.346514",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.346514"
+    },
+    {
+      "COUNTRY_ID": "63",
+      "COUNTRY_NAME": "BULGARIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.348154",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.348154"
+    },
+    {
+      "COUNTRY_ID": "64",
+      "COUNTRY_NAME": "BURKINA FASO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.350516",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.350516"
+    },
+    {
+      "COUNTRY_ID": "190",
+      "COUNTRY_NAME": "BURUNDI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.564597",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.564597"
+    },
+    {
+      "COUNTRY_ID": "191",
+      "COUNTRY_NAME": "CABO VERDE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.584832",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.584832"
+    },
+    {
+      "COUNTRY_ID": "65",
+      "COUNTRY_NAME": "CAMBODIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.352379",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.352379"
+    },
+    {
+      "COUNTRY_ID": "192",
+      "COUNTRY_NAME": "CAMEROON",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.593752",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.593752"
+    },
+    {
+      "COUNTRY_ID": "66",
+      "COUNTRY_NAME": "CANADA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.353499",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.353499"
+    },
+    {
+      "COUNTRY_ID": "67",
+      "COUNTRY_NAME": "CAPE VERDE ISLANDS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.355871",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.355871"
+    },
+    {
+      "COUNTRY_ID": "193",
+      "COUNTRY_NAME": "CENTRAL AFRICAN REPUBLIC",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.603412",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.603412"
+    },
+    {
+      "COUNTRY_ID": "194",
+      "COUNTRY_NAME": "CHAD",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.613221",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.613221"
+    },
+    {
+      "COUNTRY_ID": "68",
+      "COUNTRY_NAME": "CHILE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.357033",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.357033"
+    },
+    {
+      "COUNTRY_ID": "69",
+      "COUNTRY_NAME": "CHINA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.358658",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.358658"
+    },
+    {
+      "COUNTRY_ID": "70",
+      "COUNTRY_NAME": "COLOMBIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.360675",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.360675"
+    },
+    {
+      "COUNTRY_ID": "195",
+      "COUNTRY_NAME": "CONGO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.632532",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.632532"
+    },
+    {
+      "COUNTRY_ID": "71",
+      "COUNTRY_NAME": "COSTA RICA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.362189",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.362189"
+    },
+    {
+      "COUNTRY_ID": "72",
+      "COUNTRY_NAME": "CROATIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.36327",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.36327"
+    },
+    {
+      "COUNTRY_ID": "73",
+      "COUNTRY_NAME": "CYPRUS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.371879",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.371879"
+    },
+    {
+      "COUNTRY_ID": "74",
+      "COUNTRY_NAME": "CZECH REPUBLIC",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.373082",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.373082"
+    },
+    {
+      "COUNTRY_ID": "75",
+      "COUNTRY_NAME": "DENMARK",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.374189",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.374189"
+    },
+    {
+      "COUNTRY_ID": "76",
+      "COUNTRY_NAME": "DJIBOUTI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.375234",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.375234"
+    },
+    {
+      "COUNTRY_ID": "206",
+      "COUNTRY_NAME": "DOMINICA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.185777",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.185777"
+    },
+    {
+      "COUNTRY_ID": "77",
+      "COUNTRY_NAME": "DOMINICAN REPUBLIC",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.377881",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.377881"
+    },
+    {
+      "COUNTRY_ID": "207",
+      "COUNTRY_NAME": "EAST TIMOR (TIMOR-LESTE)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.206599",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.206599"
+    },
+    {
+      "COUNTRY_ID": "78",
+      "COUNTRY_NAME": "ECUADOR",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.379253",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.379253"
+    },
+    {
+      "COUNTRY_ID": "79",
+      "COUNTRY_NAME": "EGYPT",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.380255",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.380255"
+    },
+    {
+      "COUNTRY_ID": "80",
+      "COUNTRY_NAME": "EL SALVADOR",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.382512",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.382512"
+    },
+    {
+      "COUNTRY_ID": "234",
+      "COUNTRY_NAME": "EQUATORIAL GUINEA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:00:58.276636",
+      "MOIDFIED_ON": "2023-02-02T14:00:58.276636"
+    },
+    {
+      "COUNTRY_ID": "196",
+      "COUNTRY_NAME": "ERITREA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.642286",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.642286"
+    },
+    {
+      "COUNTRY_ID": "81",
+      "COUNTRY_NAME": "ESTONIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.384152",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.384152"
+    },
+    {
+      "COUNTRY_ID": "197",
+      "COUNTRY_NAME": "ESWATINI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.653245",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.653245"
+    },
+    {
+      "COUNTRY_ID": "82",
+      "COUNTRY_NAME": "ETHIOPIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.389072",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.389072"
+    },
+    {
+      "COUNTRY_ID": "83",
+      "COUNTRY_NAME": "FALKLAND ISLANDS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.391938",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.391938"
+    },
+    {
+      "COUNTRY_ID": "84",
+      "COUNTRY_NAME": "FIJI ISLANDS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.393162",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.393162"
+    },
+    {
+      "COUNTRY_ID": "85",
+      "COUNTRY_NAME": "FINLAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.394879",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.394879"
+    },
+    {
+      "COUNTRY_ID": "86",
+      "COUNTRY_NAME": "FRANCE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.397415",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.397415"
+    },
+    {
+      "COUNTRY_ID": "208",
+      "COUNTRY_NAME": "GABON",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.215093",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.215093"
+    },
+    {
+      "COUNTRY_ID": "87",
+      "COUNTRY_NAME": "GAMBIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.399599",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.399599"
+    },
+    {
+      "COUNTRY_ID": "88",
+      "COUNTRY_NAME": "GEORGIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.400675",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.400675"
+    },
+    {
+      "COUNTRY_ID": "89",
+      "COUNTRY_NAME": "GERMANY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.403326",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.403326"
+    },
+    {
+      "COUNTRY_ID": "90",
+      "COUNTRY_NAME": "GHANA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.404423",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.404423"
+    },
+    {
+      "COUNTRY_ID": "91",
+      "COUNTRY_NAME": "GIBRALTAR",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.405664",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.405664"
+    },
+    {
+      "COUNTRY_ID": "92",
+      "COUNTRY_NAME": "GREECE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.406761",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.406761"
+    },
+    {
+      "COUNTRY_ID": "209",
+      "COUNTRY_NAME": "GRENADA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.224949",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.224949"
+    },
+    {
+      "COUNTRY_ID": "93",
+      "COUNTRY_NAME": "GUAM",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.410938",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.410938"
+    },
+    {
+      "COUNTRY_ID": "94",
+      "COUNTRY_NAME": "GUATEMALA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.412339",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.412339"
+    },
+    {
+      "COUNTRY_ID": "198",
+      "COUNTRY_NAME": "GUINEA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.661674",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.661674"
+    },
+    {
+      "COUNTRY_ID": "199",
+      "COUNTRY_NAME": "GUINEA-BISSAU",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.683043",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.683043"
+    },
+    {
+      "COUNTRY_ID": "95",
+      "COUNTRY_NAME": "GUYANA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.414108",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.414108"
+    },
+    {
+      "COUNTRY_ID": "96",
+      "COUNTRY_NAME": "HAITI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.417111",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.417111"
+    },
+    {
+      "COUNTRY_ID": "97",
+      "COUNTRY_NAME": "HONDURAS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.429105",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.429105"
+    },
+    {
+      "COUNTRY_ID": "98",
+      "COUNTRY_NAME": "HUNGARY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.430808",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.430808"
+    },
+    {
+      "COUNTRY_ID": "99",
+      "COUNTRY_NAME": "ICELAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.43378",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.43378"
+    },
+    {
+      "COUNTRY_ID": "100",
+      "COUNTRY_NAME": "INDIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.435277",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.435277"
+    },
+    {
+      "COUNTRY_ID": "101",
+      "COUNTRY_NAME": "INDONESIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.436824",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.436824"
+    },
+    {
+      "COUNTRY_ID": "102",
+      "COUNTRY_NAME": "IRELAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.439417",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.439417"
+    },
+    {
+      "COUNTRY_ID": "103",
+      "COUNTRY_NAME": "ISREAL",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.440582",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.440582"
+    },
+    {
+      "COUNTRY_ID": "104",
+      "COUNTRY_NAME": "ITALY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.441676",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.441676"
+    },
+    {
+      "COUNTRY_ID": "210",
+      "COUNTRY_NAME": "IVORY COAST",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.234588",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.234588"
+    },
+    {
+      "COUNTRY_ID": "211",
+      "COUNTRY_NAME": "JAMAICA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.253787",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.253787"
+    },
+    {
+      "COUNTRY_ID": "105",
+      "COUNTRY_NAME": "JAPAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.444398",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.444398"
+    },
+    {
+      "COUNTRY_ID": "106",
+      "COUNTRY_NAME": "JORDAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.445513",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.445513"
+    },
+    {
+      "COUNTRY_ID": "107",
+      "COUNTRY_NAME": "KAZAKHSTAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.446671",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.446671"
+    },
+    {
+      "COUNTRY_ID": "108",
+      "COUNTRY_NAME": "KENYA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.447885",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.447885"
+    },
+    {
+      "COUNTRY_ID": "212",
+      "COUNTRY_NAME": "KIRIBATI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.263658",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.263658"
+    },
+    {
+      "COUNTRY_ID": "109",
+      "COUNTRY_NAME": "KOREA (SOUTH)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.449636",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.449636"
+    },
+    {
+      "COUNTRY_ID": "213",
+      "COUNTRY_NAME": "KOSOVO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.273431",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.273431"
+    },
+    {
+      "COUNTRY_ID": "110",
+      "COUNTRY_NAME": "KUWAIT",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.451063",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.451063"
+    },
+    {
+      "COUNTRY_ID": "111",
+      "COUNTRY_NAME": "KYRGYZSTAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.452341",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.452341"
+    },
+    {
+      "COUNTRY_ID": "214",
+      "COUNTRY_NAME": "LAOS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.284023",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.284023"
+    },
+    {
+      "COUNTRY_ID": "112",
+      "COUNTRY_NAME": "LATVIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.454348",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.454348"
+    },
+    {
+      "COUNTRY_ID": "215",
+      "COUNTRY_NAME": "LEBANON",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.302338",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.302338"
+    },
+    {
+      "COUNTRY_ID": "200",
+      "COUNTRY_NAME": "LESOTHO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.69117",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.69117"
+    },
+    {
+      "COUNTRY_ID": "113",
+      "COUNTRY_NAME": "LIBERIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.456092",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.456092"
+    },
+    {
+      "COUNTRY_ID": "216",
+      "COUNTRY_NAME": "LIECHTENSTEIN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.312087",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.312087"
+    },
+    {
+      "COUNTRY_ID": "114",
+      "COUNTRY_NAME": "LITHUANIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.45738",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.45738"
+    },
+    {
+      "COUNTRY_ID": "115",
+      "COUNTRY_NAME": "LUXEMBURG",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.459623",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.459623"
+    },
+    {
+      "COUNTRY_ID": "116",
+      "COUNTRY_NAME": "MACEDONIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.460717",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.460717"
+    },
+    {
+      "COUNTRY_ID": "117",
+      "COUNTRY_NAME": "MADAGASCAR",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.462379",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.462379"
+    },
+    {
+      "COUNTRY_ID": "118",
+      "COUNTRY_NAME": "MALAWI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.465033",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.465033"
+    },
+    {
+      "COUNTRY_ID": "119",
+      "COUNTRY_NAME": "MALAYSIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.466077",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.466077"
+    },
+    {
+      "COUNTRY_ID": "120",
+      "COUNTRY_NAME": "MALDIVES",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.467156",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.467156"
+    },
+    {
+      "COUNTRY_ID": "121",
+      "COUNTRY_NAME": "MALI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.46977",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.46977"
+    },
+    {
+      "COUNTRY_ID": "122",
+      "COUNTRY_NAME": "MALTA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.471351",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.471351"
+    },
+    {
+      "COUNTRY_ID": "123",
+      "COUNTRY_NAME": "MARIANA ISLANDS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.472268",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.472268"
+    },
+    {
+      "COUNTRY_ID": "217",
+      "COUNTRY_NAME": "MARSHALL ISLANDS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.323159",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.323159"
+    },
+    {
+      "COUNTRY_ID": "201",
+      "COUNTRY_NAME": "MAURITANIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.700568",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.700568"
+    },
+    {
+      "COUNTRY_ID": "124",
+      "COUNTRY_NAME": "MAURITIUS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.473306",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.473306"
+    },
+    {
+      "COUNTRY_ID": "125",
+      "COUNTRY_NAME": "MEXICO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.483006",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.483006"
+    },
+    {
+      "COUNTRY_ID": "218",
+      "COUNTRY_NAME": "MICRONESIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.331595",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.331595"
+    },
+    {
+      "COUNTRY_ID": "219",
+      "COUNTRY_NAME": "MOLDOVA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.351152",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.351152"
+    },
+    {
+      "COUNTRY_ID": "220",
+      "COUNTRY_NAME": "MONACO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.361732",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.361732"
+    },
+    {
+      "COUNTRY_ID": "221",
+      "COUNTRY_NAME": "MONGOLIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.370436",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.370436"
+    },
+    {
+      "COUNTRY_ID": "126",
+      "COUNTRY_NAME": "MONTENEGRO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.484394",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.484394"
+    },
+    {
+      "COUNTRY_ID": "127",
+      "COUNTRY_NAME": "MOROCCO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.485491",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.485491"
+    },
+    {
+      "COUNTRY_ID": "128",
+      "COUNTRY_NAME": "MOZAMBIQUE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.492245",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.492245"
+    },
+    {
+      "COUNTRY_ID": "222",
+      "COUNTRY_NAME": "MYANMAR (BURMA)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.380189",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.380189"
+    },
+    {
+      "COUNTRY_ID": "129",
+      "COUNTRY_NAME": "NAMIBIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.493813",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.493813"
+    },
+    {
+      "COUNTRY_ID": "223",
+      "COUNTRY_NAME": "NAURU",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.400585",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.400585"
+    },
+    {
+      "COUNTRY_ID": "130",
+      "COUNTRY_NAME": "NEPAL",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.495082",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.495082"
+    },
+    {
+      "COUNTRY_ID": "131",
+      "COUNTRY_NAME": "NETHERLANDS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.497419",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.497419"
+    },
+    {
+      "COUNTRY_ID": "132",
+      "COUNTRY_NAME": "NETHERLANDS ANTILLES",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.498528",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.498528"
+    },
+    {
+      "COUNTRY_ID": "133",
+      "COUNTRY_NAME": "NEW CALEDONIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.500166",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.500166"
+    },
+    {
+      "COUNTRY_ID": "134",
+      "COUNTRY_NAME": "NEW ZEALAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.509302",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.509302"
+    },
+    {
+      "COUNTRY_ID": "236",
+      "COUNTRY_NAME": "NICARAGUA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.312837",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.312837"
+    },
+    {
+      "COUNTRY_ID": "135",
+      "COUNTRY_NAME": "NIGER",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.510831",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.510831"
+    },
+    {
+      "COUNTRY_ID": "136",
+      "COUNTRY_NAME": "NIGERIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.512106",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.512106"
+    },
+    {
+      "COUNTRY_ID": "137",
+      "COUNTRY_NAME": "NORFOLK ISLAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.514686",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.514686"
+    },
+    {
+      "COUNTRY_ID": "224",
+      "COUNTRY_NAME": "NORTH MACEDONIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.418512",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.418512"
+    },
+    {
+      "COUNTRY_ID": "138",
+      "COUNTRY_NAME": "NORWAY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.515903",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.515903"
+    },
+    {
+      "COUNTRY_ID": "139",
+      "COUNTRY_NAME": "OMAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.517115",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.517115"
+    },
+    {
+      "COUNTRY_ID": "140",
+      "COUNTRY_NAME": "PAKISTAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.51824",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.51824"
+    },
+    {
+      "COUNTRY_ID": "225",
+      "COUNTRY_NAME": "PALAU",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.420019",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.420019"
+    },
+    {
+      "COUNTRY_ID": "141",
+      "COUNTRY_NAME": "PANAMA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.535364",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.535364"
+    },
+    {
+      "COUNTRY_ID": "142",
+      "COUNTRY_NAME": "PARAGUAY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.545124",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.545124"
+    },
+    {
+      "COUNTRY_ID": "143",
+      "COUNTRY_NAME": "PERU",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.558159",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.558159"
+    },
+    {
+      "COUNTRY_ID": "144",
+      "COUNTRY_NAME": "PHILIPPINES",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.567683",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.567683"
+    },
+    {
+      "COUNTRY_ID": "145",
+      "COUNTRY_NAME": "POLAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.583865",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.583865"
+    },
+    {
+      "COUNTRY_ID": "146",
+      "COUNTRY_NAME": "PORTUGAL",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.593653",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.593653"
+    },
+    {
+      "COUNTRY_ID": "147",
+      "COUNTRY_NAME": "PUERTO RICO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.609018",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.609018"
+    },
+    {
+      "COUNTRY_ID": "148",
+      "COUNTRY_NAME": "QATAR",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.613043",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.613043"
+    },
+    {
+      "COUNTRY_ID": "149",
+      "COUNTRY_NAME": "ROMANIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.632531",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.632531"
+    },
+    {
+      "COUNTRY_ID": "150",
+      "COUNTRY_NAME": "RUSSIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.643087",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.643087"
+    },
+    {
+      "COUNTRY_ID": "202",
+      "COUNTRY_NAME": "RWANDA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.71046",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.71046"
+    },
+    {
+      "COUNTRY_ID": "226",
+      "COUNTRY_NAME": "SAINT KITTS AND NEVIS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.428753",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.428753"
+    },
+    {
+      "COUNTRY_ID": "151",
+      "COUNTRY_NAME": "SAMOA (WESTERN)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.652133",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.652133"
+    },
+    {
+      "COUNTRY_ID": "227",
+      "COUNTRY_NAME": "SAN MARINO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.448486",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.448486"
+    },
+    {
+      "COUNTRY_ID": "228",
+      "COUNTRY_NAME": "SAO TOME AND PRINCIPE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.457751",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.457751"
+    },
+    {
+      "COUNTRY_ID": "152",
+      "COUNTRY_NAME": "SAUDI ARABIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.661557",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.661557"
+    },
+    {
+      "COUNTRY_ID": "153",
+      "COUNTRY_NAME": "SENEGAL",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.691312",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.691312"
+    },
+    {
+      "COUNTRY_ID": "154",
+      "COUNTRY_NAME": "SERBIA AND MONTENEGRO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.700777",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.700777"
+    },
+    {
+      "COUNTRY_ID": "155",
+      "COUNTRY_NAME": "SEYCHELLES",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.733428",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.733428"
+    },
+    {
+      "COUNTRY_ID": "156",
+      "COUNTRY_NAME": "SIERRA LEONE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.73474",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.73474"
+    },
+    {
+      "COUNTRY_ID": "157",
+      "COUNTRY_NAME": "SINGAPORE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.749076",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.749076"
+    },
+    {
+      "COUNTRY_ID": "158",
+      "COUNTRY_NAME": "SLOVAKIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.759748",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.759748"
+    },
+    {
+      "COUNTRY_ID": "159",
+      "COUNTRY_NAME": "SLOVENIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.768518",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.768518"
+    },
+    {
+      "COUNTRY_ID": "229",
+      "COUNTRY_NAME": "SOLOMON ISLANDS",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.467442",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.467442"
+    },
+    {
+      "COUNTRY_ID": "160",
+      "COUNTRY_NAME": "SOUTH AFRICA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.778255",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.778255"
+    },
+    {
+      "COUNTRY_ID": "161",
+      "COUNTRY_NAME": "SPAIN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.821713",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.821713"
+    },
+    {
+      "COUNTRY_ID": "162",
+      "COUNTRY_NAME": "SPAIN (CANARY ISLANDS)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.82669",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.82669"
+    },
+    {
+      "COUNTRY_ID": "163",
+      "COUNTRY_NAME": "SPANISH NORTH AFRICA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.836689",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.836689"
+    },
+    {
+      "COUNTRY_ID": "164",
+      "COUNTRY_NAME": "SRI LANKA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.8463",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.8463"
+    },
+    {
+      "COUNTRY_ID": "165",
+      "COUNTRY_NAME": "ST LUCIA (WI)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.865557",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.865557"
+    },
+    {
+      "COUNTRY_ID": "166",
+      "COUNTRY_NAME": "ST VINCENT &  GRENADINES (WI)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.875264",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.875264"
+    },
+    {
+      "COUNTRY_ID": "167",
+      "COUNTRY_NAME": "SURINAME",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.884972",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.884972"
+    },
+    {
+      "COUNTRY_ID": "168",
+      "COUNTRY_NAME": "SWEDEN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.895553",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.895553"
+    },
+    {
+      "COUNTRY_ID": "169",
+      "COUNTRY_NAME": "SWITZERLAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.914228",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.914228"
+    },
+    {
+      "COUNTRY_ID": "170",
+      "COUNTRY_NAME": "TAIWAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.9238",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.9238"
+    },
+    {
+      "COUNTRY_ID": "171",
+      "COUNTRY_NAME": "TAJIKISTAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.938183",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.938183"
+    },
+    {
+      "COUNTRY_ID": "172",
+      "COUNTRY_NAME": "TANZANIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.943118",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.943118"
+    },
+    {
+      "COUNTRY_ID": "173",
+      "COUNTRY_NAME": "THAILAND",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.962812",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.962812"
+    },
+    {
+      "COUNTRY_ID": "230",
+      "COUNTRY_NAME": "THE GAMBIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.506553",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.506553"
+    },
+    {
+      "COUNTRY_ID": "174",
+      "COUNTRY_NAME": "TOGO",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.973539",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.973539"
+    },
+    {
+      "COUNTRY_ID": "175",
+      "COUNTRY_NAME": "TONGA (FRIENDLY ISLANDS)",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.982192",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.982192"
+    },
+    {
+      "COUNTRY_ID": "176",
+      "COUNTRY_NAME": "TRINIDAD AND TOBAGO WI",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:06.991735",
+      "MOIDFIED_ON": "2023-02-02T14:01:06.991735"
+    },
+    {
+      "COUNTRY_ID": "177",
+      "COUNTRY_NAME": "TUNISIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.012186",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.012186"
+    },
+    {
+      "COUNTRY_ID": "178",
+      "COUNTRY_NAME": "TURKEY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.020888",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.020888"
+    },
+    {
+      "COUNTRY_ID": "231",
+      "COUNTRY_NAME": "TUVALU",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.517556",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.517556"
+    },
+    {
+      "COUNTRY_ID": "180",
+      "COUNTRY_NAME": "UGANDA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.040179",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.040179"
+    },
+    {
+      "COUNTRY_ID": "181",
+      "COUNTRY_NAME": "UKRAINE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.059646",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.059646"
+    },
+    {
+      "COUNTRY_ID": "182",
+      "COUNTRY_NAME": "UNITED ARAB EMIRATES",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.069425",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.069425"
+    },
+    {
+      "COUNTRY_ID": "183",
+      "COUNTRY_NAME": "UNITED KINGDOM",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.079034",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.079034"
+    },
+    {
+      "COUNTRY_ID": "184",
+      "COUNTRY_NAME": "URUGUAY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.092363",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.092363"
+    },
+    {
+      "COUNTRY_ID": "179",
+      "COUNTRY_NAME": "USA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.030579",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.030579"
+    },
+    {
+      "COUNTRY_ID": "185",
+      "COUNTRY_NAME": "UZBEKISTAN",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.108185",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.108185"
+    },
+    {
+      "COUNTRY_ID": "232",
+      "COUNTRY_NAME": "VANUATU",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.535591",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.535591"
+    },
+    {
+      "COUNTRY_ID": "233",
+      "COUNTRY_NAME": "VATICAN CITY",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.546217",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.546217"
+    },
+    {
+      "COUNTRY_ID": "186",
+      "COUNTRY_NAME": "VIETNAM",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.118119",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.118119"
+    },
+    {
+      "COUNTRY_ID": "187",
+      "COUNTRY_NAME": "ZAMBIA",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.128341",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.128341"
+    },
+    {
+      "COUNTRY_ID": "188",
+      "COUNTRY_NAME": "ZIMBABWE",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:01:07.137355",
+      "MOIDFIED_ON": "2023-02-02T14:01:07.137355"
+    }
+  ],
+  "Success": truey,
+  "StatusCode": 200,
+  "TechnicalError": null,
+  "DisplayMessage": null,
+  "CorelationId": null
+}

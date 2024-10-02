@@ -1,0 +1,307 @@
+{
+  "ListCommodity": [
+    {
+      "CommodityCode": "CM125",
+      "CommodityName": "Aggregator",
+      "SubCommodityCode": "IPNEW4",
+      "SubCommodityName": "Aggregators/transporters",
+      "isPlanA": 1,
+      "IsPopular": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM81",
+      "CommodityName": "Containers",
+      "SubCommodityCode": "CMC81",
+      "SubCommodityName": "All Types of Containers",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM102",
+      "CommodityName": "Food Items",
+      "SubCommodityCode": "FFFDI",
+      "SubCommodityName": "All kinds of Food like Oils Essence Flavours and other various Packed items",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM90",
+      "CommodityName": "Metal",
+      "SubCommodityCode": "IPNEW9",
+      "SubCommodityName": "All kinds of Precious Metals incl Gems/Gold/Silver/Jewellery",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM100",
+      "CommodityName": "Liquid Bulk- Rail/Road",
+      "SubCommodityCode": "IPNEW6",
+      "SubCommodityName": "All kinds of liquid bulk by rail or road",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM80",
+      "CommodityName": "Chemicals",
+      "SubCommodityCode": "IPNEW3",
+      "SubCommodityName": "All types of Chemicals duly packed",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM84",
+      "CommodityName": "FMCG",
+      "SubCommodityCode": "IPNEW10",
+      "SubCommodityName": "All types of FMCG commodities",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM92",
+      "CommodityName": "Paint",
+      "SubCommodityCode": "IPNEW7",
+      "SubCommodityName": "All types of paints duly packed",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM78",
+      "CommodityName": "Auto and spares",
+      "SubCommodityCode": "IP78",
+      "SubCommodityName": "Auto Spare Parts",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM78",
+      "CommodityName": "Auto and spares",
+      "SubCommodityCode": "IP79",
+      "SubCommodityName": "Automobiles",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM90",
+      "CommodityName": "Metal",
+      "SubCommodityCode": "IP901",
+      "SubCommodityName": "Cables and Wires",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM85",
+      "CommodityName": "Glass/ceramic/other fragile items",
+      "SubCommodityCode": "CR1",
+      "SubCommodityName": "Ceramic products and Tiles",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM102",
+      "CommodityName": "Food Items",
+      "SubCommodityCode": "CMAP01",
+      "SubCommodityName": "Edible vegetables or fruits and nuts or peel of citrus fruits or melons",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM101",
+      "CommodityName": "Electronic Items and White Goods incl Appliances, Watches and Mobile Phones",
+      "SubCommodityCode": "EWG4",
+      "SubCommodityName": "Electronic And White Goods",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM98",
+      "CommodityName": "Textiles",
+      "SubCommodityCode": "IP98",
+      "SubCommodityName": "Garments, Apparel, Fabrics Or Textiles",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM85",
+      "CommodityName": "Glass/ceramic/other fragile items",
+      "SubCommodityCode": "IP85",
+      "SubCommodityName": "Granite and Marble",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM86",
+      "CommodityName": "Handicrafts/Wooden Articles/Household Goods",
+      "SubCommodityCode": "Household items - New and old",
+      "SubCommodityName": "Household items - New and old",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM90",
+      "CommodityName": "Metal",
+      "SubCommodityCode": "IP902",
+      "SubCommodityName": "Iron and Steel Rods, Metal Pipes, Tubes, Steel Coils",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM87",
+      "CommodityName": "Leather",
+      "SubCommodityCode": "CM871",
+      "SubCommodityName": "Leather and Leather Goods",
+      "isPlanA": 1,
+      "IsPopular": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM89",
+      "CommodityName": "Machinery",
+      "SubCommodityCode": "IPNEW1",
+      "SubCommodityName": "Machinery Machine Tools Spares Duly Packed/lashed",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM90",
+      "CommodityName": "Metal",
+      "SubCommodityCode": "IP905",
+      "SubCommodityName": "Metal Hand Tools",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM90",
+      "CommodityName": "Metal",
+      "SubCommodityCode": "IP903",
+      "SubCommodityName": "Metal Handicrafts and Brasswares",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM90",
+      "CommodityName": "Metal",
+      "SubCommodityCode": "IP904",
+      "SubCommodityName": "Metal Scrap In ISO Container",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM90",
+      "CommodityName": "Metal",
+      "SubCommodityCode": "IPNEW2",
+      "SubCommodityName": "Metals of all types excluding precious metals",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM89",
+      "CommodityName": "Machinery",
+      "SubCommodityCode": "Mac3",
+      "SubCommodityName": "New CPM Equipment",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM89",
+      "CommodityName": "Machinery",
+      "SubCommodityCode": "IP891",
+      "SubCommodityName": "New Machinery Machine Tools and Spares In Closed ISO Containers",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM80",
+      "CommodityName": "Chemicals",
+      "SubCommodityCode": "IP80",
+      "SubCommodityName": "Non Hazardous Chemicals In Bags",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM94",
+      "CommodityName": "Pharmaceutical",
+      "SubCommodityCode": "IP94",
+      "SubCommodityName": "Pharmaceuticals and Bulk drugs",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM95",
+      "CommodityName": "Plastic",
+      "SubCommodityCode": "IP95",
+      "SubCommodityName": "Plastics and Articles Thereof",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM113",
+      "CommodityName": "Project Cargo with Survey warranty",
+      "SubCommodityCode": "IPNEW5",
+      "SubCommodityName": "Project Cargo or Project Machinery",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM97",
+      "CommodityName": "RUBBER",
+      "SubCommodityCode": "IP97",
+      "SubCommodityName": "Rubber and Articles Thereof",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM84",
+      "CommodityName": "FMCG",
+      "SubCommodityCode": "IP841",
+      "SubCommodityName": "Soap, Cosmetics, Toiletries",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM91",
+      "CommodityName": "Paperboard, articles of paper pulp,paper or paperboard",
+      "SubCommodityCode": "IP9112",
+      "SubCommodityName": "Stationery Items",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM86",
+      "CommodityName": "Handicrafts/Wooden Articles/Household Goods",
+      "SubCommodityCode": "IP86",
+      "SubCommodityName": "Timber and Wood Products",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM84",
+      "CommodityName": "FMCG",
+      "SubCommodityCode": "IP84",
+      "SubCommodityName": "Toys, Games and Sports Equipment",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM89",
+      "CommodityName": "Machinery",
+      "SubCommodityCode": "CPMMC54",
+      "SubCommodityName": "Used CPM Machines And Equipments",
+      "isPlanA": 1,
+      "isPlanB": 1
+    },
+    {
+      "CommodityCode": "CM89",
+      "CommodityName": "Machinery",
+      "SubCommodityCode": "IP89",
+      "SubCommodityName": "Used Machinery Machine Tools and Spares In Closed ISO Containers",
+      "isPlanA": 1,
+      "isPlanB": 1
+    }
+  ],
+  "Success": true,
+  "StatusCode": 200,
+  "TechnicalError": null,
+  "DisplayMessage": null,
+  "CorelationId": null
+}

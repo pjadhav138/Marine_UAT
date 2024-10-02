@@ -1,0 +1,297 @@
+{
+  "ListState": [
+    {
+      "STATE_ID": "132",
+      "STATE_NAME": "ANDAMAN AND NICOBAR ISLANDS ",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.415208",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.415208"
+    },
+    {
+      "STATE_ID": "167",
+      "STATE_NAME": "HARYANA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.708381",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.708381"
+    },
+    {
+      "STATE_ID": "134",
+      "STATE_NAME": "WEST BENGAL",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.419449",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.419449"
+    },
+    {
+      "STATE_ID": "135",
+      "STATE_NAME": "UTTARAKHAND",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.421327",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.421327"
+    },
+    {
+      "STATE_ID": "136",
+      "STATE_NAME": "UTTAR PRADESH",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.426697",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.426697"
+    },
+    {
+      "STATE_ID": "137",
+      "STATE_NAME": "TRIPURA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.429793",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.429793"
+    },
+    {
+      "STATE_ID": "138",
+      "STATE_NAME": "TELANGANA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.432543",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.432543"
+    },
+    {
+      "STATE_ID": "139",
+      "STATE_NAME": "TAMIL NADU",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.437102",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.437102"
+    },
+    {
+      "STATE_ID": "140",
+      "STATE_NAME": "SIKKIM",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.455579",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.455579"
+    },
+    {
+      "STATE_ID": "141",
+      "STATE_NAME": "RAJASTHAN",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.457567",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.457567"
+    },
+    {
+      "STATE_ID": "142",
+      "STATE_NAME": "PUNJAB",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.459237",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.459237"
+    },
+    {
+      "STATE_ID": "143",
+      "STATE_NAME": "PUDUCHERRY",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.460131",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.460131"
+    },
+    {
+      "STATE_ID": "144",
+      "STATE_NAME": "ODISHA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.473808",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.473808"
+    },
+    {
+      "STATE_ID": "145",
+      "STATE_NAME": "NAGALAND",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.477806",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.477806"
+    },
+    {
+      "STATE_ID": "146",
+      "STATE_NAME": "MIZORAM",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.481408",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.481408"
+    },
+    {
+      "STATE_ID": "147",
+      "STATE_NAME": "MEGHALAYA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.483608",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.483608"
+    },
+    {
+      "STATE_ID": "148",
+      "STATE_NAME": "MANIPUR",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.486711",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.486711"
+    },
+    {
+      "STATE_ID": "149",
+      "STATE_NAME": "MAHARASHTRA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.494422",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.494422"
+    },
+    {
+      "STATE_ID": "150",
+      "STATE_NAME": "MADHYA PRADESH",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.513532",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.513532"
+    },
+    {
+      "STATE_ID": "151",
+      "STATE_NAME": "LAKSHADWEEP",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.516467",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.516467"
+    },
+    {
+      "STATE_ID": "152",
+      "STATE_NAME": "LADAKH ",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.534094",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.534094"
+    },
+    {
+      "STATE_ID": "153",
+      "STATE_NAME": "KERALA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.543654",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.543654"
+    },
+    {
+      "STATE_ID": "154",
+      "STATE_NAME": "KARNATAKA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.553897",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.553897"
+    },
+    {
+      "STATE_ID": "155",
+      "STATE_NAME": "JHARKHAND",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.565022",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.565022"
+    },
+    {
+      "STATE_ID": "156",
+      "STATE_NAME": "JAMMU AND KASHMIR",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.58368",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.58368"
+    },
+    {
+      "STATE_ID": "157",
+      "STATE_NAME": "HIMACHAL PRADESH",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.594783",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.594783"
+    },
+    {
+      "STATE_ID": "158",
+      "STATE_NAME": "ARUNACHAL PRADESH",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.601334",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.601334"
+    },
+    {
+      "STATE_ID": "159",
+      "STATE_NAME": "ASSAM",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.610895",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.610895"
+    },
+    {
+      "STATE_ID": "160",
+      "STATE_NAME": "BIHAR",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.630782",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.630782"
+    },
+    {
+      "STATE_ID": "161",
+      "STATE_NAME": "CHANDIGARH ",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.640162",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.640162"
+    },
+    {
+      "STATE_ID": "162",
+      "STATE_NAME": "CHHATTISGARH",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.651196",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.651196"
+    },
+    {
+      "STATE_ID": "163",
+      "STATE_NAME": "DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.660048",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.660048"
+    },
+    {
+      "STATE_ID": "164",
+      "STATE_NAME": "DELHI",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.679618",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.679618"
+    },
+    {
+      "STATE_ID": "165",
+      "STATE_NAME": "GOA",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.688871",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.688871"
+    },
+    {
+      "STATE_ID": "166",
+      "STATE_NAME": "GUJARAT",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.698242",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.698242"
+    },
+    {
+      "STATE_ID": "133",
+      "STATE_NAME": "ANDHRA PRADESH",
+      "COUNTRY_ID": "100",
+      "IS_ACTIVE": 1,
+      "CREATED_ON": "2023-02-02T14:05:39.416831",
+      "MOIDFIED_ON": "2023-02-02T14:05:39.416831"
+    }
+  ],
+  "Success": true,
+  "StatusCode": 200,
+  "TechnicalError": null,
+  "DisplayMessage": null,
+  "CorelationId": null
+}
