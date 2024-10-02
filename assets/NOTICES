@@ -6281,7 +6281,6 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 --------------------------------------------------------------------------------
 dio
-dio_web_adapter
 
 MIT License
 
@@ -30369,7 +30368,6 @@ Disclaimer and license
     similar terms.
 --------------------------------------------------------------------------------
 iltc_utils
-kyc_synergy
 lombard_ui
 synergy_ui
 synergy_ui_components
@@ -30620,6 +30618,11 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
+--------------------------------------------------------------------------------
+kyc_synergy
+
+TODO: Add your license here.
+
 --------------------------------------------------------------------------------
 leak_tracker
 leak_tracker_flutter_testing
